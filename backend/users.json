@@ -1,0 +1,10 @@
+{
+  "users": {
+    "user": {
+      "passwordHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"
+    },
+    "okay": {
+      "passwordHash": "c9cd6b28d6fefe518058f44c3ce9f9f7b4749ef658d5b1f5e2a4f3cd93853ac1"
+    }
+  }
+}
